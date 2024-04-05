@@ -1,1 +1,1 @@
-#Small project about Tetris game
+Small project about Tetris game
