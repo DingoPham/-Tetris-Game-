@@ -29,5 +29,13 @@ body{
     height: 24px;
     border: 1px solid #000;
     position: absolute;
-    box-shadow: inset 3px 3px 0 rgba(225, 225, 225, 0.3); 
+    box-shadow: inset 3px 3px 0 rgba(225, 225, 225, 0.5); 
+}
+
+.ghost{
+    width: 24px;
+    height: 24px;
+    border: 1px solid #000;
+    position: absolute;
+    box-shadow: inset 3px 3px 0 rgba(255, 255, 255, 0.3);
 }
