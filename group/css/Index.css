@@ -37,5 +37,5 @@ body{
     height: 24px;
     border: 1px solid #000;
     position: absolute;
-    box-shadow: inset 3px 3px 0 rgba(255, 255, 255, 0.3);
+    box-shadow: inset 3px 3px 0 rgba(175, 175, 175, 0.3);
 }
